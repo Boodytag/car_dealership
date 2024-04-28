@@ -1,22 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using SalesAdminscreenfinal;
+using System;
+using System.Data;
 using System.Windows.Forms;
-
-namespace Vehicles
+static class Program
 {
-    internal static class Program
+    [STAThread]
+    static void Main()
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
-        [STAThread]
-        static void Main()
-        {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Admin());
-        }
+        Application.EnableVisualStyles();
+        Application.SetCompatibleTextRenderingDefault(false);
+        var shoppingCartForm = new ShoppingCartForm();
+        Application.Run(new ProductCatalog(new DataTable(), shoppingCartForm));
     }
 }
