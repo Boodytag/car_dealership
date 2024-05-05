@@ -1,0 +1,32 @@
+C:\Users\shams\OneDrive\Desktop\                      \Integrated Project\Vehicles\bin\Debug\Vehicles.exe.config
+C:\Users\shams\OneDrive\Desktop\                      \Integrated Project\Vehicles\bin\Debug\Vehicles.exe
+C:\Users\shams\OneDrive\Desktop\                      \Integrated Project\Vehicles\bin\Debug\Vehicles.pdb
+C:\Users\shams\OneDrive\Desktop\                      \Integrated Project\Vehicles\obj\Debug\Car Dealership.csproj.AssemblyReference.cache
+C:\Users\shams\OneDrive\Desktop\                      \Integrated Project\Vehicles\obj\Debug\Vehicles.Vehicles.resources
+C:\Users\shams\OneDrive\Desktop\                      \Integrated Project\Vehicles\obj\Debug\Vehicles.Employees.resources
+C:\Users\shams\OneDrive\Desktop\                      \Integrated Project\Vehicles\obj\Debug\Vehicles.Customers.resources
+C:\Users\shams\OneDrive\Desktop\                      \Integrated Project\Vehicles\obj\Debug\Vehicles.Purchase_History.resources
+C:\Users\shams\OneDrive\Desktop\                      \Integrated Project\Vehicles\obj\Debug\Vehicles.Properties.Resources.resources
+C:\Users\shams\OneDrive\Desktop\                      \Integrated Project\Vehicles\obj\Debug\Car Dealership.csproj.GenerateResource.cache
+C:\Users\shams\OneDrive\Desktop\                      \Integrated Project\Vehicles\obj\Debug\Car Dealership.csproj.CoreCompileInputs.cache
+C:\Users\shams\OneDrive\Desktop\                      \Integrated Project\Vehicles\obj\Debug\Vehicles.exe
+C:\Users\shams\OneDrive\Desktop\                      \Integrated Project\Vehicles\obj\Debug\Vehicles.pdb
+C:\Users\shams\OneDrive\Desktop\                      \Integrated Project\Vehicles\obj\Debug\Vehicles.Admin.resources
+C:\Users\shams\OneDrive\Desktop\                      \Integrated Project\Vehicles\obj\Debug\Vehicles.Vehicle_Types.resources
+C:\Users\shams\OneDrive\Desktop\     \Integrated Project\Vehicles\bin\Debug\Vehicles.exe.config
+C:\Users\shams\OneDrive\Desktop\     \Integrated Project\Vehicles\bin\Debug\Vehicles.exe
+C:\Users\shams\OneDrive\Desktop\     \Integrated Project\Vehicles\bin\Debug\Vehicles.pdb
+C:\Users\shams\OneDrive\Desktop\     \Integrated Project\Vehicles\obj\Debug\Car Dealership.csproj.AssemblyReference.cache
+C:\Users\shams\OneDrive\Desktop\     \Integrated Project\Vehicles\obj\Debug\Vehicles.Admin.resources
+C:\Users\shams\OneDrive\Desktop\     \Integrated Project\Vehicles\obj\Debug\Vehicles.Vehicle_Types.resources
+C:\Users\shams\OneDrive\Desktop\     \Integrated Project\Vehicles\obj\Debug\Vehicles.Employees.resources
+C:\Users\shams\OneDrive\Desktop\     \Integrated Project\Vehicles\obj\Debug\Vehicles.Customers.resources
+C:\Users\shams\OneDrive\Desktop\     \Integrated Project\Vehicles\obj\Debug\Vehicles.Purchase_History.resources
+C:\Users\shams\OneDrive\Desktop\     \Integrated Project\Vehicles\obj\Debug\Vehicles.Properties.Resources.resources
+C:\Users\shams\OneDrive\Desktop\     \Integrated Project\Vehicles\obj\Debug\Car Dealership.csproj.GenerateResource.cache
+C:\Users\shams\OneDrive\Desktop\     \Integrated Project\Vehicles\obj\Debug\Car Dealership.csproj.CoreCompileInputs.cache
+C:\Users\shams\OneDrive\Desktop\     \Integrated Project\Vehicles\obj\Debug\Vehicles.exe
+C:\Users\shams\OneDrive\Desktop\     \Integrated Project\Vehicles\obj\Debug\Vehicles.pdb
+C:\Users\shams\OneDrive\Desktop\     \Integrated Project\Vehicles\obj\Debug\Vehicles.Brand_Types.resources
+C:\Users\shams\OneDrive\Desktop\     \Integrated Project\Vehicles\obj\Debug\Vehicles.Vehicle_Details.resources
+C:\Users\shams\OneDrive\Desktop\     \Integrated Project\Vehicles\obj\Debug\Vehicles.Vehicle_Cat.resources
