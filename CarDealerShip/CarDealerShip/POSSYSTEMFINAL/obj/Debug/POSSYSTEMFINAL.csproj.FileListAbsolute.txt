@@ -1,0 +1,96 @@
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Programming\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.csproj.AssemblyReference.cache
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Programming\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.Properties.Resources.resources
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Programming\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.STAFF.resources
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Programming\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.csproj.GenerateResource.cache
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Programming\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.csproj.CoreCompileInputs.cache
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Programming\POSSYSTEMFINAL\bin\Debug\POSSYSTEMFINAL.exe.config
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Programming\POSSYSTEMFINAL\bin\Debug\POSSYSTEMFINAL.exe
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Programming\POSSYSTEMFINAL\bin\Debug\POSSYSTEMFINAL.pdb
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Programming\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.exe
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Programming\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.pdb
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Programming\POSSYSTEMFINAL\obj\Debug\ProductCatalog.resources
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Programming\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.ShoppingCart.resources
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Programming\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.ADMIN.resources
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Programming\POSSYSTEMFINAL\obj\Debug\Vehicles.Customers.resources
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Programming\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.EmployeesManage.resources
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.csproj.AssemblyReference.cache
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.ADMIN.resources
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\POSSYSTEMFINAL\obj\Debug\Vehicles.Customers.resources
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.EmployeesManage.resources
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\POSSYSTEMFINAL\obj\Debug\ProductCatalog.resources
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.Properties.Resources.resources
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.ShoppingCart.resources
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.STAFF.resources
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.VehicleManage.resources
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.csproj.GenerateResource.cache
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.csproj.CoreCompileInputs.cache
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.exe
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.pdb
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.csproj.AssemblyReference.cache
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.ADMIN.resources
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\obj\Debug\Vehicles.Customers.resources
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.EmployeesManage.resources
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\obj\Debug\ProductCatalog.resources
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.Properties.Resources.resources
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.ShoppingCart.resources
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.STAFF.resources
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.VehicleManage.resources
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.csproj.GenerateResource.cache
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.csproj.CoreCompileInputs.cache
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.exe
+C:\Users\test\OneDrive\Desktop\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.pdb
+C:\Users\test\OneDrive\Desktop\CDS\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.csproj.AssemblyReference.cache
+C:\Users\test\OneDrive\Desktop\CDS\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.ADMIN.resources
+C:\Users\test\OneDrive\Desktop\CDS\POSSYSTEMFINAL\obj\Debug\Vehicles.Customers.resources
+C:\Users\test\OneDrive\Desktop\CDS\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.EmployeesManage.resources
+C:\Users\test\OneDrive\Desktop\CDS\POSSYSTEMFINAL\obj\Debug\ProductCatalog.resources
+C:\Users\test\OneDrive\Desktop\CDS\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.Properties.Resources.resources
+C:\Users\test\OneDrive\Desktop\CDS\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.ShoppingCart.resources
+C:\Users\test\OneDrive\Desktop\CDS\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.STAFF.resources
+C:\Users\test\OneDrive\Desktop\CDS\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.VehicleManage.resources
+C:\Users\test\OneDrive\Desktop\CDS\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.csproj.GenerateResource.cache
+C:\Users\test\OneDrive\Desktop\CDS\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.csproj.CoreCompileInputs.cache
+C:\Users\test\OneDrive\Desktop\CDS\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.exe
+C:\Users\test\OneDrive\Desktop\CDS\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.pdb
+C:\Users\test\OneDrive\Desktop\CDS\POSSYSTEMFINAL\bin\Debug\POSSYSTEMFINAL.exe.config
+C:\Users\test\OneDrive\Desktop\CDS\POSSYSTEMFINAL\bin\Debug\POSSYSTEMFINAL.exe
+C:\Users\test\OneDrive\Desktop\CDS\POSSYSTEMFINAL\bin\Debug\POSSYSTEMFINAL.pdb
+C:\Users\test\OneDrive\Desktop\CDS\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.Intro.resources
+C:\Users\test\OneDrive\Desktop\CDS\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.SALES.resources
+C:\Users\firas\Downloads\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.csproj.AssemblyReference.cache
+C:\Users\firas\Downloads\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.exe
+C:\Users\firas\Downloads\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.pdb
+C:\Users\firas\Downloads\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\bin\Debug\POSSYSTEMFINAL.exe.config
+C:\Users\firas\Downloads\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\bin\Debug\POSSYSTEMFINAL.exe
+C:\Users\firas\Downloads\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.ADMIN.resources
+C:\Users\firas\Downloads\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\Vehicles.Customers.resources
+C:\Users\firas\Downloads\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.EmployeesManage.resources
+C:\Users\firas\Downloads\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.Intro.resources
+C:\Users\firas\Downloads\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\ProductCatalog.resources
+C:\Users\firas\Downloads\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.Properties.Resources.resources
+C:\Users\firas\Downloads\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.SALES.resources
+C:\Users\firas\Downloads\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.ShoppingCart.resources
+C:\Users\firas\Downloads\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.STAFF.resources
+C:\Users\firas\Downloads\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.VehicleManage.resources
+C:\Users\firas\Downloads\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.csproj.GenerateResource.cache
+C:\Users\firas\Downloads\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.csproj.CoreCompileInputs.cache
+C:\Users\firas\Downloads\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\bin\Debug\POSSYSTEMFINAL.pdb
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Working with data\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\bin\Debug\POSSYSTEMFINAL.exe.config
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Working with data\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\bin\Debug\POSSYSTEMFINAL.exe
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Working with data\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\bin\Debug\POSSYSTEMFINAL.pdb
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Working with data\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.csproj.AssemblyReference.cache
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Working with data\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.ADMIN.resources
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Working with data\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\Vehicles.Customers.resources
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Working with data\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.EmployeesManage.resources
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Working with data\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.Intro.resources
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Working with data\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\ProductCatalog.resources
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Working with data\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.Properties.Resources.resources
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Working with data\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.SALES.resources
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Working with data\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.ShoppingCart.resources
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Working with data\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.STAFF.resources
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Working with data\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.csproj.GenerateResource.cache
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Working with data\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.csproj.CoreCompileInputs.cache
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Working with data\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.exe
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Working with data\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.pdb
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Working with data\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.VehicleManager.resources
+C:\Users\firas\OneDrive\Documents\University study\year 1 semester 2\Working with data\CarDealerShip\CarDealerShip\POSSYSTEMFINAL\obj\Debug\POSSYSTEMFINAL.FINANCES.resources
